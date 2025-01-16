@@ -1,5 +1,6 @@
 # MacOSXoptims
 Optimisations to speed up animatons for Mac OS, version early 2025.
+- no guarantees given :D
 
 In default settings, Mac OS has animations that are verry slow and often hinder productivity. Here are alle the terminal commands to speed up your Mac's animations.
 
